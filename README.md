@@ -4,9 +4,9 @@
 
 A simple web scraper to gather information on undergraduate courses offered at Penn State University. All course data is obtained through the University Bulletins at https://bulletins.psu.edu/. The complete list of included programs can be found at https://bulletins.psu.edu/university-course-descriptions/undergraduate/.
 
-Running `python course_scraper.py` will re-scrape the data and create a fresh copy of `courses.csv`.
+View this data set on [Kaggle](https://www.kaggle.com/mzh5263/college-course-data).
 
-The version of `courses.csv` included in this repository was created with information retrieved on October 10, 2010.
+Running `python course_scraper.py` will re-scrape the data and create a fresh copy of `courses.csv`. The version of `courses.csv` included in this repository was created with information retrieved on October 10, 2010.
 
 ### Course Attributes
 
